@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://shamithc.github.io/sha1024.github.io"
 languageCode = "en-us"
 title = "SHA 1024"
 theme = "hugo-ink"
@@ -53,7 +53,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/shamthc"
+url = "https://github.com/shamithc"
 
 [[params.social]]
 name = "RSS"
