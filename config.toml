@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "SHA 1024"
 theme = "hugo-ink"
 paginate = 5
+canonifyURLs = true
 
 copyright = "SHA 1024"
 
