@@ -1,4 +1,4 @@
-baseURL = "https://shamithc.github.io/sha1024.github.io"
+baseURL = "https://shamithc.github.io"
 languageCode = "en-us"
 title = "SHA 1024"
 theme = "hugo-ink"
